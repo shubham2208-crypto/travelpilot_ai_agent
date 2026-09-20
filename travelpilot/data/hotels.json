@@ -1,0 +1,9 @@
+[
+  {"name": "Le Grand Hotel", "destination": "Paris", "price_per_night": 180, "rating": 4.5, "latitude": 48.8700, "longitude": 2.3300},
+  {"name": "Parisian Hostel & Suites", "destination": "Paris", "price_per_night": 65, "rating": 4.0, "latitude": 48.8500, "longitude": 2.3500},
+  {"name": "Burj View Suites", "destination": "Dubai", "price_per_night": 250, "rating": 4.8, "latitude": 25.2048, "longitude": 55.2708},
+  {"name": "Shinjuku Grand Hotel", "destination": "Tokyo", "price_per_night": 150, "rating": 4.6, "latitude": 35.6938, "longitude": 139.7034},
+  {"name": "The Thames View", "destination": "London", "price_per_night": 170, "rating": 4.4, "latitude": 51.5074, "longitude": -0.1278},
+  {"name": "Backwater Serenity Resort", "destination": "Kerala", "price_per_night": 90, "rating": 4.7, "latitude": 9.4981, "longitude": 76.3388},
+  {"name": "Manhattan Times Square Hotel", "destination": "New York", "price_per_night": 220, "rating": 4.5, "latitude": 40.7580, "longitude": -73.9855}
+]

@@ -1,0 +1,9 @@
+[
+  {"type": "Flight", "provider": "Air Express", "destination": "Paris", "cost": 350, "duration_hours": 6},
+  {"type": "Train", "provider": "EuroRail", "destination": "Paris", "cost": 180, "duration_hours": 4},
+  {"type": "Flight", "provider": "Emirates", "destination": "Dubai", "cost": 500, "duration_hours": 7},
+  {"type": "Flight", "provider": "JAL", "destination": "Tokyo", "cost": 850, "duration_hours": 12},
+  {"type": "Flight", "provider": "British Airways", "destination": "London", "cost": 300, "duration_hours": 7},
+  {"type": "Flight", "provider": "Air India", "destination": "Kerala", "cost": 450, "duration_hours": 9},
+  {"type": "Flight", "provider": "United Airlines", "destination": "New York", "cost": 400, "duration_hours": 8}
+]

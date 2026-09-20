@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Paris",
+    "country": "France",
+    "currency": "EUR",
+    "description": "The City of Light, famous for art, fashion, gastronomy, and culture."
+  },
+  {
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "currency": "AED",
+    "description": "A futuristic metropolis known for luxury shopping and ultramodern architecture."
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "currency": "JPY",
+    "description": "A bustling blend of ultra-modern tech and historic temples."
+  },
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "description": "A historic global capital with world-class museums and theater."
+  },
+  {
+    "name": "Kerala",
+    "country": "India",
+    "currency": "INR",
+    "description": "God's Own Country, famed for tranquil backwaters, beaches, and spices."
+  },
+  {
+    "name": "New York",
+    "country": "United States",
+    "currency": "USD",
+    "description": "The Big Apple, featuring iconic skyscrapers, Broadway, and diverse culture."
+  }
+]

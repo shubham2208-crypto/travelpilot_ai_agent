@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Eiffel Tower",
+    "destination": "Paris",
+    "category": "Architecture",
+    "latitude": 48.8584,
+    "longitude": 2.2945,
+    "opening_time": "09:00",
+    "closing_time": "23:45",
+    "duration_minutes": 120,
+    "cost": 25,
+    "availability": true
+  },
+  {
+    "name": "Louvre Museum",
+    "destination": "Paris",
+    "category": "Museums",
+    "latitude": 48.8606,
+    "longitude": 2.3376,
+    "opening_time": "09:00",
+    "closing_time": "18:00",
+    "duration_minutes": 180,
+    "cost": 22,
+    "availability": true
+  },
+  {
+    "name": "Montmartre Walking Tour",
+    "destination": "Paris",
+    "category": "Culture",
+    "latitude": 48.8867,
+    "longitude": 2.3431,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "duration_minutes": 120,
+    "cost": 15,
+    "availability": true
+  },
+  {
+    "name": "Musée d'Orsay",
+    "destination": "Paris",
+    "category": "Museums",
+    "latitude": 48.8599,
+    "longitude": 2.3266,
+    "opening_time": "09:30",
+    "closing_time": "18:00",
+    "duration_minutes": 150,
+    "cost": 16,
+    "availability": true
+  },
+  {
+    "name": "Seine River Cruise",
+    "destination": "Paris",
+    "category": "Nature",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "duration_minutes": 90,
+    "cost": 20,
+    "availability": true
+  },
+  {
+    "name": "Burj Khalifa Observation Deck",
+    "destination": "Dubai",
+    "category": "Architecture",
+    "latitude": 25.1972,
+    "longitude": 55.2744,
+    "opening_time": "08:30",
+    "closing_time": "23:00",
+    "duration_minutes": 120,
+    "cost": 100,
+    "availability": true
+  },
+  {
+    "name": "Senso-ji Temple",
+    "destination": "Tokyo",
+    "category": "Culture",
+    "latitude": 35.7148,
+    "longitude": 139.7967,
+    "opening_time": "06:00",
+    "closing_time": "17:00",
+    "duration_minutes": 90,
+    "cost": 0,
+    "availability": true
+  },
+  {
+    "name": "British Museum",
+    "destination": "London",
+    "category": "Museums",
+    "latitude": 51.5194,
+    "longitude": -0.1270,
+    "opening_time": "10:00",
+    "closing_time": "17:30",
+    "duration_minutes": 150,
+    "cost": 0,
+    "availability": true
+  },
+  {
+    "name": "Alleppey Houseboat Cruise",
+    "destination": "Kerala",
+    "category": "Nature",
+    "latitude": 9.4981,
+    "longitude": 76.3388,
+    "opening_time": "11:00",
+    "closing_time": "17:00",
+    "duration_minutes": 360,
+    "cost": 120,
+    "availability": true
+  },
+  {
+    "name": "Central Park Walking Tour",
+    "destination": "New York",
+    "category": "Nature",
+    "latitude": 40.7851,
+    "longitude": -73.9683,
+    "opening_time": "08:00",
+    "closing_time": "19:00",
+    "duration_minutes": 120,
+    "cost": 10,
+    "availability": true
+  }
+]
